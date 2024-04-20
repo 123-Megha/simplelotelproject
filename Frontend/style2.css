@@ -1,0 +1,63 @@
+@media  (min-width:300px)
+{
+body{
+    background-image: url(backgroundimage1.jpeg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+
+}
+img
+{
+    width:150px;
+    height:150px;
+    background-size: cover;
+}
+#t
+{
+    padding:40px;
+    position: relative;
+    bottom: 60px; 
+    margin-left: 190px; 
+    
+}
+#img1
+{
+    position: relative; 
+    top: 155px;
+    margin-right:7px;
+}
+#img2
+{
+    margin-right: 7px;
+    position: relative
+}
+#img3
+{
+    height: 310px; 
+    position: relative
+}
+#b
+{
+    height: 160px;
+    width: 300px;
+    background-color: rgb(237, 120, 140);
+    position: relative;
+    margin-left:550px;
+    bottom: 350px;
+}
+h6
+{
+    font-family: Arial; 
+    padding-left: 15px;
+    padding-top: 15px; 
+    font-weight: lighter;
+}
+p
+{
+    margin-left: 20px; 
+    font-family: Arial;
+     font-size: 22px;
+}
+}
